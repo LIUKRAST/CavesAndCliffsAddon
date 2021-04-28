@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "caves_and_cliffs_update_addon:blocks/black_pumice",
+    "particle": "caves_and_cliffs_update_addon:blocks/black_pumice"
+  }
+}

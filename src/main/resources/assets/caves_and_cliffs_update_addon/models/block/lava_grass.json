@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "caves_and_cliffs_update_addon:blocks/lavastone",
+    "up": "caves_and_cliffs_update_addon:blocks/lava_grass_top",
+    "north": "caves_and_cliffs_update_addon:blocks/lava_grass_side",
+    "east": "caves_and_cliffs_update_addon:blocks/lava_grass_side",
+    "south": "caves_and_cliffs_update_addon:blocks/lava_grass_side",
+    "west": "caves_and_cliffs_update_addon:blocks/lava_grass_side",
+    "particle": "caves_and_cliffs_update_addon:blocks/lavastone"
+  }
+}

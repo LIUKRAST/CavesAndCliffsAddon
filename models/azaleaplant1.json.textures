@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "glowing_baby_blooming_azalea_tree_bush_v1",
+        "1": "glowing_baby_azalea_tree",
+        "2": "glowingazaleawood",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

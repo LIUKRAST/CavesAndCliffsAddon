@@ -1,0 +1,39 @@
+{
+  "group": "caves_and_cliffs_update_addon",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "caves_and_cliffs_update_addon:sugilite"
+    },
+    "2": {
+      "item": "caves_and_cliffs_update_addon:sugilite"
+    },
+    "3": {
+      "item": "caves_and_cliffs_update_addon:sugilite"
+    },
+    "4": {
+      "item": "caves_and_cliffs_update_addon:sugilite"
+    },
+    "5": {
+      "item": "caves_and_cliffs_update_addon:sugilite"
+    },
+    "6": {
+      "item": "caves_and_cliffs_update_addon:sugilite"
+    },
+    "7": {
+      "item": "caves_and_cliffs_update_addon:sugilite"
+    },
+    "8": {
+      "item": "caves_and_cliffs_update_addon:sugilite"
+    }
+  },
+  "result": {
+    "item": "caves_and_cliffs_update_addon:sugilite_armor_chestplate",
+    "count": 1
+  }
+}

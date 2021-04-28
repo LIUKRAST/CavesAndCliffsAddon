@@ -1,0 +1,42 @@
+{
+  "group": "caves_and_cliffs_update_addon",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:lapis_ore"
+    },
+    "1": {
+      "item": "minecraft:lapis_ore"
+    },
+    "2": {
+      "item": "minecraft:lapis_ore"
+    },
+    "3": {
+      "item": "minecraft:lapis_ore"
+    },
+    "4": {
+      "item": "caves_and_cliffs_update_addon:glowing_ink_sac"
+    },
+    "5": {
+      "item": "minecraft:lapis_ore"
+    },
+    "6": {
+      "item": "minecraft:lapis_ore"
+    },
+    "7": {
+      "item": "minecraft:lapis_ore"
+    },
+    "8": {
+      "item": "minecraft:lapis_ore"
+    }
+  },
+  "result": {
+    "item": "caves_and_cliffs_update_addon:lapis_crystal",
+    "count": 4
+  }
+}

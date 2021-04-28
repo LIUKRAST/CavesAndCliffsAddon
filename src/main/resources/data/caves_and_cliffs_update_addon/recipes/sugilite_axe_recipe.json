@@ -1,0 +1,30 @@
+{
+  "group": "caves_and_cliffs_update_addon",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "4 "
+  ],
+  "key": {
+    "0": {
+      "item": "caves_and_cliffs_update_addon:sugilite"
+    },
+    "1": {
+      "item": "caves_and_cliffs_update_addon:sugilite"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    },
+    "3": {
+      "item": "caves_and_cliffs_update_addon:sugilite"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "caves_and_cliffs_update_addon:sugilite_axe",
+    "count": 1
+  }
+}

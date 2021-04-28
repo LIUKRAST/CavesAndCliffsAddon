@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "caves_and_cliffs_update_addon:blocks/glowing_kelp_plant_v2_16x16",
+    "up": "caves_and_cliffs_update_addon:blocks/glowing_kelp_v2_16x16",
+    "north": "caves_and_cliffs_update_addon:blocks/glowing_kelp_plant_v2_16x16",
+    "east": "caves_and_cliffs_update_addon:blocks/glowing_kelp_plant_v2_16x16",
+    "south": "caves_and_cliffs_update_addon:blocks/glowing_kelp_plant_v2_16x16",
+    "west": "caves_and_cliffs_update_addon:blocks/glowing_kelp_plant_v2_16x16",
+    "particle": "caves_and_cliffs_update_addon:blocks/glowing_kelp_plant_v2_16x16"
+  }
+}

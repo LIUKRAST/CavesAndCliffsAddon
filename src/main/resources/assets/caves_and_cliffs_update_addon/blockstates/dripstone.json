@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "caves_and_cliffs_update_addon:block/dripstone"
+    },
+    "facing=east": {
+      "model": "caves_and_cliffs_update_addon:block/dripstone",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "caves_and_cliffs_update_addon:block/dripstone",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "caves_and_cliffs_update_addon:block/dripstone",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "caves_and_cliffs_update_addon:block/dripstone",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "caves_and_cliffs_update_addon:block/dripstone",
+      "x": 90
+    }
+  }
+}

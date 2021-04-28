@@ -1,0 +1,46 @@
+{
+  "_fv": 17,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.REDSTONE_ORE"
+      },
+      {
+        "value": "Blocks.REDSTONE_ORE"
+      },
+      {
+        "value": "Blocks.REDSTONE_ORE"
+      },
+      {
+        "value": "Blocks.REDSTONE_ORE"
+      },
+      {
+        "value": "CUSTOM:GlowingInkSac"
+      },
+      {
+        "value": "Blocks.REDSTONE_ORE"
+      },
+      {
+        "value": "Blocks.REDSTONE_ORE"
+      },
+      {
+        "value": "Blocks.REDSTONE_ORE"
+      },
+      {
+        "value": "Blocks.REDSTONE_ORE"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RedstoneCrystal"
+    },
+    "name": "redstone_crystal_recipe",
+    "namespace": "mod"
+  }
+}

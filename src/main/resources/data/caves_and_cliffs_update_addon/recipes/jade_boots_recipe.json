@@ -1,0 +1,26 @@
+{
+  "group": "caves_and_cliffs_update_addon",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "caves_and_cliffs_update_addon:jade"
+    },
+    "2": {
+      "item": "caves_and_cliffs_update_addon:jade"
+    },
+    "3": {
+      "item": "caves_and_cliffs_update_addon:jade"
+    },
+    "5": {
+      "item": "caves_and_cliffs_update_addon:jade"
+    }
+  },
+  "result": {
+    "item": "caves_and_cliffs_update_addon:jade_armor_boots",
+    "count": 1
+  }
+}

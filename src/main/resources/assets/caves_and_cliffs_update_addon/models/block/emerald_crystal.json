@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "caves_and_cliffs_update_addon:blocks/emerald_crystal",
+    "up": "caves_and_cliffs_update_addon:blocks/emerald_crystal",
+    "north": "caves_and_cliffs_update_addon:blocks/emerald_crystal",
+    "east": "caves_and_cliffs_update_addon:blocks/emerald_crystal",
+    "south": "caves_and_cliffs_update_addon:blocks/emerald_crystal",
+    "west": "caves_and_cliffs_update_addon:blocks/emerald_crystal",
+    "particle": "caves_and_cliffs_update_addon:blocks/emerald_crystal"
+  }
+}

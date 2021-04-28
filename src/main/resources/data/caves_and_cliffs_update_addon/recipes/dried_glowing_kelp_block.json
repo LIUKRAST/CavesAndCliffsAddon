@@ -1,0 +1,42 @@
+{
+  "group": "caves_and_cliffs_update_addon",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "caves_and_cliffs_update_addon:dried_glowing_kelp"
+    },
+    "1": {
+      "item": "caves_and_cliffs_update_addon:dried_glowing_kelp"
+    },
+    "2": {
+      "item": "caves_and_cliffs_update_addon:dried_glowing_kelp"
+    },
+    "3": {
+      "item": "caves_and_cliffs_update_addon:dried_glowing_kelp"
+    },
+    "4": {
+      "item": "caves_and_cliffs_update_addon:dried_glowing_kelp"
+    },
+    "5": {
+      "item": "caves_and_cliffs_update_addon:dried_glowing_kelp"
+    },
+    "6": {
+      "item": "caves_and_cliffs_update_addon:dried_glowing_kelp"
+    },
+    "7": {
+      "item": "caves_and_cliffs_update_addon:dried_glowing_kelp"
+    },
+    "8": {
+      "item": "caves_and_cliffs_update_addon:dried_glowing_kelp"
+    }
+  },
+  "result": {
+    "item": "caves_and_cliffs_update_addon:glowing_kelp_block_2",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "caves_and_cliffs_update_addon:blocks/interesting_block_which_is_i_dont_know_its_name_so_what_is_this_thing_v1",
+    "particle": "caves_and_cliffs_update_addon:blocks/interesting_block_which_is_i_dont_know_its_name_so_what_is_this_thing_v1"
+  }
+}

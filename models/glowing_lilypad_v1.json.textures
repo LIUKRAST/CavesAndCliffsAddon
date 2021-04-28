@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "glowing_lilypad",
+        "1": "glowing_lilypad",
+        "3": "glowing_lilypad"
+      },
+      "name": "default"
+    }
+  }
+}

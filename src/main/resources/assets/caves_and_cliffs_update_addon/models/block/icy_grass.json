@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "caves_and_cliffs_update_addon:blocks/icy_stone",
+    "up": "caves_and_cliffs_update_addon:blocks/snow",
+    "north": "caves_and_cliffs_update_addon:blocks/icy_grass",
+    "east": "caves_and_cliffs_update_addon:blocks/icy_grass",
+    "south": "caves_and_cliffs_update_addon:blocks/icy_grass",
+    "west": "caves_and_cliffs_update_addon:blocks/icy_grass",
+    "particle": "caves_and_cliffs_update_addon:blocks/icy_stone"
+  }
+}

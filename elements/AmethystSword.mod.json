@@ -1,0 +1,27 @@
+{
+  "_fv": 17,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "amethyst_sword",
+    "customModelName": "Normal",
+    "name": "Amethyst Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:CACADDONS"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 20.0,
+    "usageCount": 10000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "caves_and_cliffs_update_addon:blocks/stalagmite_2",
+    "particle": "caves_and_cliffs_update_addon:blocks/stalagmite_2"
+  }
+}

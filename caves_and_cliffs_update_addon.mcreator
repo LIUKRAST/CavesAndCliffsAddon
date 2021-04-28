@@ -1,0 +1,3437 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Amethystarmor",
+      "type": "armor",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethystarmor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "CACADDONS",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cacaddons"
+    },
+    {
+      "name": "CopperArmor",
+      "type": "armor",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Copperpickaxe",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copperpickaxe"
+    },
+    {
+      "name": "Copperaxe",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copperaxe"
+    },
+    {
+      "name": "Copperhoe",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copperhoe"
+    },
+    {
+      "name": "CopperSword",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_sword"
+    },
+    {
+      "name": "CopperShovel",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_shovel"
+    },
+    {
+      "name": "Epidote",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "epidote"
+    },
+    {
+      "name": "LavaStone",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "temple_lava_stone"
+    },
+    {
+      "name": "JungleStone",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jungle_stone"
+    },
+    {
+      "name": "IceStone",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ice_stone"
+    },
+    {
+      "name": "DiamondCrystal",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_crystal"
+    },
+    {
+      "name": "CoalCrystal",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coal_crystal"
+    },
+    {
+      "name": "LapisCrystal",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapis_crystal"
+    },
+    {
+      "name": "GoldCrystal",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_crystal"
+    },
+    {
+      "name": "CACADDCrystals",
+      "type": "tab",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cacadd_crystals"
+    },
+    {
+      "name": "CACADDstones",
+      "type": "tab",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cacad_dstones"
+    },
+    {
+      "name": "CopperCrystal",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_crystal"
+    },
+    {
+      "name": "EmeraldCrystal",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_crystal"
+    },
+    {
+      "name": "CACADDGlowCave",
+      "type": "tab",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cacadd_glow_cave"
+    },
+    {
+      "name": "GlowingKelpBlock",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowing_kelp_block"
+    },
+    {
+      "name": "GlowingVine",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowing_vine"
+    },
+    {
+      "name": "GlowingKelpV2",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowing_kelp_v_2"
+    },
+    {
+      "name": "GlowingKelpTopV2",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowing_kelp_top_v_2"
+    },
+    {
+      "name": "GlowingVineEnd",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowing_vine_end"
+    },
+    {
+      "name": "GlowBlossom",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glow_blossom"
+    },
+    {
+      "name": "GlowFlower",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glow_flower"
+    },
+    {
+      "name": "GlowingKelpBlock2",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowing_kelp_block_2"
+    },
+    {
+      "name": "RedstoneCrystal",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redstone_crystal"
+    },
+    {
+      "name": "GlowingKelp",
+      "type": "item",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowing_kelp"
+    },
+    {
+      "name": "GlowingKelpRightClickedOnBlock",
+      "type": "procedure",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowing_kelp_right_clicked_on_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DriedGlowingKelpFoodEaten",
+      "type": "procedure",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dried_glowing_kelp_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DriedGlowingKelp",
+      "type": "food",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dried_glowing_kelp"
+    },
+    {
+      "name": "GlowingKelpV2UpdateTick",
+      "type": "procedure",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowing_kelp_v_2_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DriedGlowKelp",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dried_glow_kelp"
+    },
+    {
+      "name": "GlowingInkSac",
+      "type": "item",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowing_ink_sac"
+    },
+    {
+      "name": "DiamondCrystalRecipe",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_crystal_recipe"
+    },
+    {
+      "name": "CoalCrystalRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coal_crystal_recipe"
+    },
+    {
+      "name": "LapisCrystalRecipe",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapis_crystal_recipe"
+    },
+    {
+      "name": "GoldCrystalRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_crystal_recipe"
+    },
+    {
+      "name": "EmeraldCrystalRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_crystal_recipe"
+    },
+    {
+      "name": "RedstoneCrystalRecipe",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redstone_crystal_recipe"
+    },
+    {
+      "name": "IronCrystal",
+      "type": "block",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_crystal"
+    },
+    {
+      "name": "IronCrystalRecipe",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_crystal_recipe"
+    },
+    {
+      "name": "GlowSquid",
+      "type": "mob",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glow_squid"
+    },
+    {
+      "name": "AmethystSword",
+      "type": "tool",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethyst_sword"
+    },
+    {
+      "name": "AmethystPickaxe",
+      "type": "tool",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethyst_pickaxe"
+    },
+    {
+      "name": "GlowingLilyPad",
+      "type": "block",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowing_lily_pad"
+    },
+    {
+      "name": "GlowingKelpBlockRecipe",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowing_kelp_block_recipe"
+    },
+    {
+      "name": "DriedGlowingKelpBlock",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dried_glowing_kelp_block"
+    },
+    {
+      "name": "DriedGlowingKelpBlockFuel",
+      "type": "fuel",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dried_glowing_kelp_block_fuel"
+    },
+    {
+      "name": "GlowingKelpBlockFuel",
+      "type": "fuel",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowing_kelp_block_fuel"
+    },
+    {
+      "name": "EpidoteRecipe",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "epidote_recipe"
+    },
+    {
+      "name": "LavaStoneRecipe",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lava_stone_recipe"
+    },
+    {
+      "name": "IceStoneRecipe",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ice_stone_recipe"
+    },
+    {
+      "name": "JungleStoneRecipe",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jungle_stone_recipe"
+    },
+    {
+      "name": "AmethystAxe",
+      "type": "tool",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethyst_axe"
+    },
+    {
+      "name": "AmethystShovel",
+      "type": "tool",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amethyst_shovel"
+    },
+    {
+      "name": "GlowingBush",
+      "type": "block",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowing_bush"
+    },
+    {
+      "name": "IcyGrass",
+      "type": "block",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "icy_grass"
+    },
+    {
+      "name": "CACADDIcy",
+      "type": "tab",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cacadd_icy"
+    },
+    {
+      "name": "IcyStone",
+      "type": "block",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "icy_stone"
+    },
+    {
+      "name": "IcyStoneSlabs",
+      "type": "block",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "icy_stone_slabs"
+    },
+    {
+      "name": "IcyStoneStairs",
+      "type": "block",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "icy_stone_stairs"
+    },
+    {
+      "name": "StalagmiteSpike",
+      "type": "block",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stalagmite_spike"
+    },
+    {
+      "name": "StalagmiteSpikeBody",
+      "type": "block",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stalagmite_spike_body"
+    },
+    {
+      "name": "StalagmiteBody",
+      "type": "block",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stalagmite_body"
+    },
+    {
+      "name": "StalagmiteBase",
+      "type": "block",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stalagmite_base"
+    },
+    {
+      "name": "IcyGrassUpdateTick",
+      "type": "procedure",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "icy_grass_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StalactiteSpikeNO",
+      "type": "block",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stalactite_spike_no"
+    },
+    {
+      "name": "StalactiteSpkeBodyNO",
+      "type": "block",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stalactite_spke_body_no"
+    },
+    {
+      "name": "StalactiteBodyNO",
+      "type": "block",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stalactite_body_no"
+    },
+    {
+      "name": "StalactiteBaseNO",
+      "type": "block",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stalactite_base_no"
+    },
+    {
+      "name": "StalactiteSpikeFA",
+      "type": "block",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stalactite_spike_fa"
+    },
+    {
+      "name": "StalactiteSpikeBodyFA",
+      "type": "block",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stalactite_spike_body_fa"
+    },
+    {
+      "name": "StalactiteBodyFA",
+      "type": "block",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stalactite_body_fa"
+    },
+    {
+      "name": "StalactiteBaseFA",
+      "type": "block",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stalactite_base_fa"
+    },
+    {
+      "name": "FallingStalactites",
+      "type": "procedure",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "falling_stalactites",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "IcyWater",
+      "type": "fluid",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "icy_water"
+    },
+    {
+      "name": "FallingStalactite1",
+      "type": "procedure",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "falling_stalactite_1",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FallingStalactite2",
+      "type": "procedure",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "falling_stalactite_2",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FallingStalactite3",
+      "type": "procedure",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "falling_stalactite_3",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FallingStalactite4",
+      "type": "procedure",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "falling_stalactite_4",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StalagmiteProcedure",
+      "type": "procedure",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stalagmite_procedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BlackPumice",
+      "type": "block",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_pumice"
+    },
+    {
+      "name": "WhitePumice",
+      "type": "block",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_pumice"
+    },
+    {
+      "name": "YellowPumice",
+      "type": "block",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yellow_pumice"
+    },
+    {
+      "name": "BrownPumice",
+      "type": "block",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brown_pumice"
+    },
+    {
+      "name": "IcyWaterMobplayerCollidesBlock",
+      "type": "procedure",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "icy_water_mobplayer_collides_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LavaGrass",
+      "type": "block",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lava_grass"
+    },
+    {
+      "name": "LavaStone1",
+      "type": "block",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lava_stone_1"
+    },
+    {
+      "name": "CACADDLava",
+      "type": "tab",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cacadd_lava"
+    },
+    {
+      "name": "LavaStoneSlab",
+      "type": "block",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lava_stone_slab"
+    },
+    {
+      "name": "LavaStoneStairs",
+      "type": "block",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lava_stone_stairs"
+    },
+    {
+      "name": "BuddingRedstoneCrystal",
+      "type": "block",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "budding_redstone_crystal"
+    },
+    {
+      "name": "RedstoneCluster",
+      "type": "block",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redstone_cluster"
+    },
+    {
+      "name": "PumiceStairs",
+      "type": "block",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pumice_stairs"
+    },
+    {
+      "name": "PumiceSlab",
+      "type": "block",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pumice_slab"
+    },
+    {
+      "name": "VolcanicPumiceStairs",
+      "type": "block",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "volcanic_pumice_stairs"
+    },
+    {
+      "name": "VolcanicPumiceSlab",
+      "type": "block",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "volcanic_pumice_slab"
+    },
+    {
+      "name": "EruptiveColumn",
+      "type": "block",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eruptive_column"
+    },
+    {
+      "name": "EruptingColumn",
+      "type": "block",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "erupting_column"
+    },
+    {
+      "name": "EruptingColumnClientDisplayRandomTick",
+      "type": "procedure",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "erupting_column_client_display_random_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RedstoneCrystalShard",
+      "type": "item",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redstone_crystal_shard"
+    },
+    {
+      "name": "EruptiveColumnOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eruptive_column_on_block_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MoltenHive",
+      "type": "block",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "molten_hive"
+    },
+    {
+      "name": "LavaBug",
+      "type": "mob",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lava_bug"
+    },
+    {
+      "name": "RedstoneColossus",
+      "type": "mob",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redstone_colossus"
+    },
+    {
+      "name": "GlowBug",
+      "type": "mob",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glow_bug"
+    },
+    {
+      "name": "MoltenHiveUpdateTick",
+      "type": "procedure",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "molten_hive_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RefinedEye",
+      "type": "item",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refined_eye"
+    },
+    {
+      "name": "SmallRedstoneCrystal",
+      "type": "block",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "small_redstone_crystal"
+    },
+    {
+      "name": "MediumRedstoneCrystalBud",
+      "type": "block",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "medium_redstone_crystal_bud"
+    },
+    {
+      "name": "LargeRedstoneCrystalBud",
+      "type": "block",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "large_redstone_crystal_bud"
+    },
+    {
+      "name": "CACADDJade",
+      "type": "tab",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cacadd_jade"
+    },
+    {
+      "name": "JadeOre",
+      "type": "block",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jade_ore"
+    },
+    {
+      "name": "Jade",
+      "type": "item",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jade"
+    },
+    {
+      "name": "JadeSmelt",
+      "type": "recipe",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jade_smelt"
+    },
+    {
+      "name": "JadeBlock",
+      "type": "block",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jade_block"
+    },
+    {
+      "name": "JadeArmor",
+      "type": "armor",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jade_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "JadeSword",
+      "type": "tool",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jade_sword"
+    },
+    {
+      "name": "JadePickaxe",
+      "type": "tool",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jade_pickaxe"
+    },
+    {
+      "name": "JadeAxe",
+      "type": "tool",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jade_axe"
+    },
+    {
+      "name": "JadeShovel",
+      "type": "tool",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jade_shovel"
+    },
+    {
+      "name": "JadeHoe",
+      "type": "tool",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jade_hoe"
+    },
+    {
+      "name": "CACADDInfestedMushroom",
+      "type": "tab",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cacadd_infested_mushroom"
+    },
+    {
+      "name": "InfestedMushroomGrassBlock",
+      "type": "block",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infested_mushroom_grass_block"
+    },
+    {
+      "name": "InfestedMushroomBlock",
+      "type": "block",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infested_mushroom_block"
+    },
+    {
+      "name": "InfestedMushroomGrassBlockEntityWalksOnTheBlock",
+      "type": "procedure",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infested_mushroom_grass_block_entity_walks_on_the_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "JadeMonster",
+      "type": "mob",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jade_monster"
+    },
+    {
+      "name": "JadeOreBlockDestroyedByPlayer",
+      "type": "procedure",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jade_ore_block_destroyed_by_player",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FrostFlies",
+      "type": "mob",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frost_flies"
+    },
+    {
+      "name": "SugiliteOre",
+      "type": "block",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sugilite_ore"
+    },
+    {
+      "name": "Sugilite",
+      "type": "item",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sugilite"
+    },
+    {
+      "name": "SugiliteSword",
+      "type": "tool",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sugilite_sword"
+    },
+    {
+      "name": "SugilitePickaxe",
+      "type": "tool",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sugilite_pickaxe"
+    },
+    {
+      "name": "SugiliteAxe",
+      "type": "tool",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sugilite_axe"
+    },
+    {
+      "name": "SugiliteShovel",
+      "type": "tool",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sugilite_shovel"
+    },
+    {
+      "name": "SugiliteHoe",
+      "type": "tool",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sugilite_hoe"
+    },
+    {
+      "name": "SugiliteArmor",
+      "type": "armor",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sugilite_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "JadeSwordRecipe",
+      "type": "recipe",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jade_sword_recipe"
+    },
+    {
+      "name": "JadePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jade_pickaxe_recipe"
+    },
+    {
+      "name": "JadeAxeRecipe",
+      "type": "recipe",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jade_axe_recipe"
+    },
+    {
+      "name": "JadeShovelRecipe",
+      "type": "recipe",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jade_shovel_recipe"
+    },
+    {
+      "name": "JadeHoeRecipe",
+      "type": "recipe",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jade_hoe_recipe"
+    },
+    {
+      "name": "JadeHelmetRecipe",
+      "type": "recipe",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jade_helmet_recipe"
+    },
+    {
+      "name": "JadeChestplaceRecipe",
+      "type": "recipe",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jade_chestplace_recipe"
+    },
+    {
+      "name": "JadeLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jade_leggings_recipe"
+    },
+    {
+      "name": "JadeBootsRecipe",
+      "type": "recipe",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jade_boots_recipe"
+    },
+    {
+      "name": "SugiliteSmelt",
+      "type": "recipe",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sugilite_smelt"
+    },
+    {
+      "name": "SugiliteSwordRecipe",
+      "type": "recipe",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sugilite_sword_recipe"
+    },
+    {
+      "name": "SugilitePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sugilite_pickaxe_recipe"
+    },
+    {
+      "name": "SugiliteAxeRecipe",
+      "type": "recipe",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sugilite_axe_recipe"
+    },
+    {
+      "name": "SugiliteShovelRecipe",
+      "type": "recipe",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sugilite_shovel_recipe"
+    },
+    {
+      "name": "SugiliteHoeRecipe",
+      "type": "recipe",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sugilite_hoe_recipe"
+    },
+    {
+      "name": "SugiliteHelmetRecipe",
+      "type": "recipe",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sugilite_helmet_recipe"
+    },
+    {
+      "name": "SugiliteChestplateRecipe",
+      "type": "recipe",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sugilite_chestplate_recipe"
+    },
+    {
+      "name": "SugiliteLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sugilite_leggings_recipe"
+    },
+    {
+      "name": "SugiliteBootsRecipe",
+      "type": "recipe",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sugilite_boots_recipe"
+    },
+    {
+      "name": "InfestedMushroom",
+      "type": "block",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infested_mushroom"
+    },
+    {
+      "name": "InfestedGrass",
+      "type": "block",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infested_grass"
+    },
+    {
+      "name": "InfestedGrass2",
+      "type": "block",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infested_grass_2"
+    },
+    {
+      "name": "JadeBlockUncraft",
+      "type": "recipe",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jade_block_uncraft"
+    },
+    {
+      "name": "SugiliteBlock",
+      "type": "block",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sugilite_block"
+    },
+    {
+      "name": "SugiliteBlockUncraft",
+      "type": "recipe",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sugilite_block_uncraft"
+    },
+    {
+      "name": "InfestedMushroomBlockEntityWalksOnTheBlock",
+      "type": "procedure",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infested_mushroom_block_entity_walks_on_the_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SugiliteBlockRecipe",
+      "type": "recipe",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sugilite_block_recipe"
+    },
+    {
+      "name": "Vein",
+      "type": "enchantment",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vein"
+    },
+    {
+      "name": "VeinMinerCoal",
+      "type": "procedure",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vein_miner_coal",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "VeinMinerCall",
+      "type": "procedure",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vein_miner_call",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "VeinMinerIron",
+      "type": "procedure",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vein_miner_iron",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "VeinMinerGold",
+      "type": "procedure",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vein_miner_gold",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "VeinMinerLapis",
+      "type": "procedure",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vein_miner_lapis",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "VeinMinerRedstone",
+      "type": "procedure",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vein_miner_redstone",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "VeinMinerDiamond",
+      "type": "procedure",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vein_miner_diamond",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "VeinMinerEmerald",
+      "type": "procedure",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vein_miner_emerald",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "VeinMinerQuartz",
+      "type": "procedure",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vein_miner_quartz",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "VeinMinerNetherGoldOre",
+      "type": "procedure",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vein_miner_nether_gold_ore",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "VeinMinerJade",
+      "type": "procedure",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vein_miner_jade",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "VeinMinerSugilite",
+      "type": "procedure",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vein_miner_sugilite",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "VeinMinerDiorite",
+      "type": "procedure",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vein_miner_diorite",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "VeinMinerAndesite",
+      "type": "procedure",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vein_miner_andesite",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "VeinMinerGranite",
+      "type": "procedure",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vein_miner_granite",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "VeinMinerGlowstone",
+      "type": "procedure",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vein_miner_glowstone",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TestOnKeyPressed",
+      "type": "procedure",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "test_on_key_pressed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Test",
+      "type": "keybind",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "test"
+    },
+    {
+      "name": "VeinOff",
+      "type": "enchantment",
+      "sortid": 195,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vein_off"
+    },
+    {
+      "name": "AutoSmelt",
+      "type": "enchantment",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "auto_smelt"
+    },
+    {
+      "name": "AutoSmeltWork",
+      "type": "procedure",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "auto_smelt_work",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "VeinMinerEpidote",
+      "type": "procedure",
+      "sortid": 198,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vein_miner_epidote",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "VeinMinerGravel",
+      "type": "procedure",
+      "sortid": 199,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vein_miner_gravel",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "IcyCaveSpawn",
+      "type": "block",
+      "sortid": 200,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "icy_cave_spawn"
+    },
+    {
+      "name": "IcyCaveSpawnBlockAdded",
+      "type": "procedure",
+      "sortid": 201,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "icy_cave_spawn_block_added",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Dripstone",
+      "type": "block",
+      "sortid": 202,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dripstone"
+    },
+    {
+      "name": "DripstoneBlockAdded",
+      "type": "procedure",
+      "sortid": 202,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dripstone_block_added",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "IcyCaveStructureUpdateTick",
+      "type": "procedure",
+      "sortid": 203,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "icy_cave_structure_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "IcyCaveStructure",
+      "type": "block",
+      "sortid": 203,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "icy_cave_structure"
+    },
+    {
+      "name": "Icycave",
+      "type": "structure",
+      "sortid": 204,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "icycave"
+    },
+    {
+      "name": "IcycaveOnStructureInstanceGenerated",
+      "type": "procedure",
+      "sortid": 205,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "structure_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LavaCaveSpawn",
+      "type": "block",
+      "sortid": 206,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lava_cave_spawn"
+    },
+    {
+      "name": "LavaCaveSpawnBlockAdded",
+      "type": "procedure",
+      "sortid": 207,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lava_cave_spawn_block_added",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ErCol",
+      "type": "procedure",
+      "sortid": 208,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "er_col",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LavaCaveStructure",
+      "type": "block",
+      "sortid": 209,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lava_cave_structure"
+    },
+    {
+      "name": "LavaCaveStructureUpdateTick",
+      "type": "procedure",
+      "sortid": 210,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lava_cave_structure_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Lavacave",
+      "type": "structure",
+      "sortid": 211,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lavacave"
+    },
+    {
+      "name": "InfestedCaveSpawn",
+      "type": "block",
+      "sortid": 212,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infested_cave_spawn"
+    },
+    {
+      "name": "InfestedColonnum",
+      "type": "procedure",
+      "sortid": 213,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infested_colonnum",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "InfestedCaveSpawnBlockAdded",
+      "type": "procedure",
+      "sortid": 212,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infested_cave_spawn_block_added",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "InfestedCaveStructure",
+      "type": "block",
+      "sortid": 214,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infested_cave_structure"
+    },
+    {
+      "name": "InfestedCave",
+      "type": "structure",
+      "sortid": 215,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infested_cave"
+    },
+    {
+      "name": "InfestedCaveStructureUpdateTick",
+      "type": "procedure",
+      "sortid": 216,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infested_cave_structure_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GlowCaveSpawn",
+      "type": "block",
+      "sortid": 217,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glow_cave_spawn"
+    },
+    {
+      "name": "GlowCaveSpawnBlockAdded",
+      "type": "procedure",
+      "sortid": 218,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glow_cave_spawn_block_added",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "UnderwaterGrow",
+      "type": "procedure",
+      "sortid": 219,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "underwater_grow",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Lilypad",
+      "type": "procedure",
+      "sortid": 220,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lilypad",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GlowVineGrow",
+      "type": "procedure",
+      "sortid": 221,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glow_vine_grow",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GlowCaveStructure",
+      "type": "block",
+      "sortid": 222,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glow_cave_structure"
+    },
+    {
+      "name": "Redprismarine",
+      "type": "block",
+      "sortid": 223,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redprismarine"
+    },
+    {
+      "name": "BluePrismarine",
+      "type": "block",
+      "sortid": 224,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_prismarine"
+    },
+    {
+      "name": "GreenPrismarine",
+      "type": "block",
+      "sortid": 225,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_prismarine"
+    },
+    {
+      "name": "GlowCaveStructureUpdateTick",
+      "type": "procedure",
+      "sortid": 226,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glow_cave_structure_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GlowCave",
+      "type": "structure",
+      "sortid": 227,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glow_cave"
+    },
+    {
+      "name": "GlowCave2",
+      "type": "structure",
+      "sortid": 228,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glow_cave_2"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.caves_and_cliffs_update_addon.jade_pickaxe": "Jade Pickaxe",
+      "enchantment.caves_and_cliffs_update_addon.auto_smelt": "Auto Smelt",
+      "block.caves_and_cliffs_update_addon.glow_cave_spawn": "Glow Cave Spawn",
+      "block.caves_and_cliffs_update_addon.dripstone": "Icy Dripstone",
+      "block.caves_and_cliffs_update_addon.glowing_kelp_block_2": "Dried Glowing Kelp Block",
+      "block.caves_and_cliffs_update_addon.glowing_vine": "Glowing Vine",
+      "item.caves_and_cliffs_update_addon.glowing_kelp": "Glowing Kelp",
+      "block.caves_and_cliffs_update_addon.epidote": "Epidote",
+      "item.caves_and_cliffs_update_addon.jade_shovel": "Jade Shovel",
+      "block.caves_and_cliffs_update_addon.infested_grass_2": "Infested Flower",
+      "item.caves_and_cliffs_update_addon.lava_bug_spawn_egg": "Lava Bug Spawn Egg",
+      "itemGroup.tabcacadd_infested_mushroom": "CACADD - Infested Mushroom",
+      "item.caves_and_cliffs_update_addon.copperaxe": "Copper axe",
+      "block.caves_and_cliffs_update_addon.green_prismarine": "Green Prismarine",
+      "block.caves_and_cliffs_update_addon.glowing_lily_pad": "Glowing Lily Pad",
+      "item.caves_and_cliffs_update_addon.jade_armor_leggings": "Jade Leggings",
+      "block.caves_and_cliffs_update_addon.brown_pumice": "Pumice",
+      "block.caves_and_cliffs_update_addon.glowing_vine_end": "Glowing Vine End",
+      "block.caves_and_cliffs_update_addon.infested_mushroom": "Infested Mushroom",
+      "block.caves_and_cliffs_update_addon.stalactite_body_no": "Stalactite Body",
+      "block.caves_and_cliffs_update_addon.infested_grass": "Infested Grass",
+      "item.caves_and_cliffs_update_addon.amethystarmor_chestplate": "Amethyst Chestplate",
+      "block.caves_and_cliffs_update_addon.lava_stone_stairs": "Lava Stone Stairs",
+      "block.caves_and_cliffs_update_addon.icy_stone": "Icy Stone",
+      "block.caves_and_cliffs_update_addon.icy_grass": "Icy Grass",
+      "item.caves_and_cliffs_update_addon.frost_flies_spawn_egg": "Frost Flies Spawn Egg",
+      "block.caves_and_cliffs_update_addon.stalactite_body_fa": "Falling Stalactite 2",
+      "block.caves_and_cliffs_update_addon.erupting_column": "Erupting Column",
+      "enchantment.caves_and_cliffs_update_addon.vein_off": "Vein - Off",
+      "block.caves_and_cliffs_update_addon.small_redstone_crystal": "Small Redstone Crystal Bud",
+      "item.caves_and_cliffs_update_addon.copper_armor_helmet": "Copper Helmet",
+      "item.caves_and_cliffs_update_addon.copperpickaxe": "Copper pickaxe",
+      "item.caves_and_cliffs_update_addon.amethystarmor_boots": "Amethyst Boots",
+      "itemGroup.tabcacadd_crystals": "CACADD - Crystals",
+      "item.caves_and_cliffs_update_addon.sugilite_shovel": "Sugilite Shovel",
+      "fluid.icy_water": "IcyWater",
+      "itemGroup.tabcacad_dstones": "CACADD - Stones",
+      "item.caves_and_cliffs_update_addon.sugilite_armor_chestplate": "Sugilite Chestplate",
+      "item.caves_and_cliffs_update_addon.icy_water_bucket": "IcyWater Bucket",
+      "entity.caves_and_cliffs_update_addon.glow_squid": "Glow Squid",
+      "entity.caves_and_cliffs_update_addon.glow_bug": "Glow Bug",
+      "block.caves_and_cliffs_update_addon.medium_redstone_crystal_bud": "Medium Redstone Crystal Bud",
+      "item.caves_and_cliffs_update_addon.jade_monster_spawn_egg": "Jade Monster Spawn Egg",
+      "block.caves_and_cliffs_update_addon.pumice_slab": "Pumice Slab",
+      "block.caves_and_cliffs_update_addon.redprismarine": "Red Prismarine",
+      "block.caves_and_cliffs_update_addon.glow_blossom": "Glow Blossom",
+      "item.caves_and_cliffs_update_addon.jade_armor_chestplate": "Jade Chestplate",
+      "block.caves_and_cliffs_update_addon.stalagmite_spike_body": "Stalagmite Spike Body",
+      "block.caves_and_cliffs_update_addon.yellow_pumice": "Yellow Pumice",
+      "block.caves_and_cliffs_update_addon.coal_crystal": "Coal Crystal",
+      "entity.caves_and_cliffs_update_addon.lava_bug": "Lava Bug",
+      "item.caves_and_cliffs_update_addon.jade_axe": "Jade Axe",
+      "block.caves_and_cliffs_update_addon.emerald_crystal": "Emerald Crystal",
+      "block.caves_and_cliffs_update_addon.redstone_cluster": "Redstone Cluster",
+      "block.caves_and_cliffs_update_addon.volcanic_pumice_stairs": "Volcanic Pumice",
+      "block.caves_and_cliffs_update_addon.lapis_crystal": "Lapis-Lazuli Crystal",
+      "item.caves_and_cliffs_update_addon.sugilite_hoe": "Sugilite Hoe",
+      "block.caves_and_cliffs_update_addon.jade_ore": "Jade Ore",
+      "block.caves_and_cliffs_update_addon.glow_flower": "Glow Flower",
+      "itemGroup.tabcacadd_icy": "CACADD Icy",
+      "item.caves_and_cliffs_update_addon.copperhoe": "Copperhoe",
+      "item.caves_and_cliffs_update_addon.amethyst_axe": "Amethyst Axe",
+      "block.caves_and_cliffs_update_addon.temple_lava_stone": "Temple Lava Stone",
+      "item.caves_and_cliffs_update_addon.refined_eye": "Refined Crystal",
+      "item.caves_and_cliffs_update_addon.jade": "Jade",
+      "item.caves_and_cliffs_update_addon.amethystarmor_helmet": "Amethyst Helmet",
+      "item.caves_and_cliffs_update_addon.jade_sword": "Jade Sword",
+      "item.caves_and_cliffs_update_addon.amethyst_shovel": "Amethyst Shovel",
+      "entity.caves_and_cliffs_update_addon.redstone_colossus": "Redstone Colossus",
+      "block.caves_and_cliffs_update_addon.stalactite_spke_body_no": "Stalactite Spike Body",
+      "item.caves_and_cliffs_update_addon.copper_armor_chestplate": "Copper Chestplate",
+      "item.caves_and_cliffs_update_addon.redstone_colossus_spawn_egg": "Redstone Colossus Spawn Egg",
+      "block.caves_and_cliffs_update_addon.iron_crystal": "Iron Crystal",
+      "block.caves_and_cliffs_update_addon.lava_stone_slab": "Lava Stone Slab",
+      "item.caves_and_cliffs_update_addon.glowing_ink_sac": "Glowing Ink Sac",
+      "item.caves_and_cliffs_update_addon.glow_bug_spawn_egg": "Glow Bug Spawn Egg",
+      "enchantment.caves_and_cliffs_update_addon.vein": "Vein - On",
+      "block.caves_and_cliffs_update_addon.glow_cave_structure": "Glow Cave Structure",
+      "block.caves_and_cliffs_update_addon.glowing_kelp_v_2": "Glowing Kelp",
+      "item.caves_and_cliffs_update_addon.jade_hoe": "Jade Hoe",
+      "block.caves_and_cliffs_update_addon.stalagmite_base": "Stalagmite Base",
+      "item.caves_and_cliffs_update_addon.glow_squid_spawn_egg": "Glow Squid Spawn Egg",
+      "block.caves_and_cliffs_update_addon.lava_stone_1": "Lava Stone",
+      "block.caves_and_cliffs_update_addon.blue_prismarine": "Blue Prismarine",
+      "block.caves_and_cliffs_update_addon.icy_stone_stairs": "Icy Stone Stairs",
+      "block.caves_and_cliffs_update_addon.icy_stone_slabs": "Icy Stone Slabs",
+      "block.caves_and_cliffs_update_addon.infested_mushroom_grass_block": "Infested Mushroom Grass Block",
+      "item.caves_and_cliffs_update_addon.amethystarmor_leggings": "Amethyst Leggings",
+      "item.caves_and_cliffs_update_addon.sugilite_armor_leggings": "Sugilite Leggings",
+      "item.caves_and_cliffs_update_addon.copper_sword": "Copper Sword",
+      "block.caves_and_cliffs_update_addon.jade_block": "Jade Block",
+      "item.caves_and_cliffs_update_addon.copper_armor_leggings": "Copper Leggings",
+      "block.caves_and_cliffs_update_addon.stalactite_spike_body_fa": "Falling Stalactite 1",
+      "block.caves_and_cliffs_update_addon.lava_grass": "Lava Grass",
+      "item.caves_and_cliffs_update_addon.copper_armor_boots": "Copper Boots",
+      "entity.caves_and_cliffs_update_addon.jade_monster": "Jade Monster",
+      "item.caves_and_cliffs_update_addon.amethyst_pickaxe": "Amethyst Pickaxe",
+      "block.caves_and_cliffs_update_addon.molten_hive": "Molten Hive",
+      "item.caves_and_cliffs_update_addon.amethyst_sword": "Amethyst Sword",
+      "block.caves_and_cliffs_update_addon.jungle_stone": "Jungle Stone",
+      "block.caves_and_cliffs_update_addon.stalagmite_spike": "Stalagmite Spike",
+      "item.caves_and_cliffs_update_addon.jade_armor_boots": "Jade Boots",
+      "item.caves_and_cliffs_update_addon.sugilite_axe": "Sugilite Axe",
+      "block.caves_and_cliffs_update_addon.infested_cave_spawn": "Infested Cave Spawn",
+      "item.caves_and_cliffs_update_addon.jade_armor_helmet": "Jade Helmet",
+      "block.caves_and_cliffs_update_addon.infested_cave_structure": "Infested Cave Structure",
+      "block.caves_and_cliffs_update_addon.infested_mushroom_block": "Infested Mushroom Block",
+      "block.caves_and_cliffs_update_addon.white_pumice": "White Pumice",
+      "item.caves_and_cliffs_update_addon.copper_shovel": "Copper Shovel",
+      "item.caves_and_cliffs_update_addon.dried_glowing_kelp": "Dried Glowing Kelp",
+      "block.caves_and_cliffs_update_addon.budding_redstone_crystal": "Budding Redstone Crystal",
+      "item.caves_and_cliffs_update_addon.sugilite_armor_boots": "Sugilite Boots",
+      "block.caves_and_cliffs_update_addon.large_redstone_crystal_bud": "Large Redstone Crystal Bud",
+      "block.caves_and_cliffs_update_addon.stalactite_spike_fa": "Falling Stalactite",
+      "itemGroup.tabcacadd_lava": "CACADD - Lava",
+      "key.mcreator.test": "Toogle Vein Enchantment",
+      "block.caves_and_cliffs_update_addon.stalactite_spike_no": "Stalactite Spike",
+      "itemGroup.tabcacaddons": "CACADD - Armor and tools",
+      "item.caves_and_cliffs_update_addon.sugilite": "Sugilite",
+      "block.caves_and_cliffs_update_addon.lava_cave_spawn": "Lava Cave Spawn",
+      "block.caves_and_cliffs_update_addon.diamond_crystal": "Diamond Crystal",
+      "block.caves_and_cliffs_update_addon.ice_stone": "Temple Icy Stone",
+      "block.caves_and_cliffs_update_addon.eruptive_column": "Eruptive Column",
+      "block.caves_and_cliffs_update_addon.icy_cave_spawn": "Icy Cave Spawn",
+      "block.caves_and_cliffs_update_addon.redstone_crystal": "Redstone Crystal",
+      "block.caves_and_cliffs_update_addon.lava_cave_structure": "Lava Cave Structure",
+      "block.caves_and_cliffs_update_addon.sugilite_ore": "Sugilite Ore",
+      "block.caves_and_cliffs_update_addon.black_pumice": "Volcanic Pumice",
+      "block.caves_and_cliffs_update_addon.glowing_kelp_top_v_2": "Glowing Kelp Top",
+      "block.caves_and_cliffs_update_addon.icy_cave_structure": "Icy Cave Structure",
+      "item.caves_and_cliffs_update_addon.sugilite_armor_helmet": "Sugilite Helmet",
+      "block.caves_and_cliffs_update_addon.sugilite_block": "Sugilite Block",
+      "block.caves_and_cliffs_update_addon.stalagmite_body": "Stalagmite Body",
+      "item.caves_and_cliffs_update_addon.sugilite_pickaxe": "Sugilite Pickaxe",
+      "block.caves_and_cliffs_update_addon.gold_crystal": "Gold Crystal",
+      "itemGroup.tabcacadd_glow_cave": "CACADD - Glow Cave",
+      "itemGroup.tabcacadd_jade": "CACADD - Jade",
+      "key.caves_and_cliffs_update_addon.test": "Toogle Vein Enchantment",
+      "block.caves_and_cliffs_update_addon.stalactite_base_no": "Stalactite Base",
+      "block.caves_and_cliffs_update_addon.glowing_bush": "Glowing Bush",
+      "item.caves_and_cliffs_update_addon.sugilite_sword": "Sugilite Sword",
+      "block.caves_and_cliffs_update_addon.stalactite_base_fa": "Falling Stalactite 3",
+      "item.caves_and_cliffs_update_addon.redstone_crystal_shard": "Redstone Crystal Shard",
+      "block.caves_and_cliffs_update_addon.glowing_kelp_block": "Glowing Kelp Block",
+      "block.caves_and_cliffs_update_addon.volcanic_pumice_slab": "Volcanic Pumice",
+      "block.caves_and_cliffs_update_addon.copper_crystal": "Copper Crystal",
+      "block.caves_and_cliffs_update_addon.pumice_stairs": "Pumice Stairs",
+      "entity.caves_and_cliffs_update_addon.frost_flies": "Frost Flies"
+    },
+    "fr_fr": {
+      "item.caves_and_cliffs_update_addon.jade_pickaxe": "Pioche en Jade",
+      "enchantment.caves_and_cliffs_update_addon.auto_smelt": "Auto Smelt",
+      "block.caves_and_cliffs_update_addon.glow_cave_spawn": "Glow Cave Spawn",
+      "block.caves_and_cliffs_update_addon.dripstone": "Dripstone",
+      "block.caves_and_cliffs_update_addon.glowing_vine": "Vigne luminescente",
+      "block.caves_and_cliffs_update_addon.glowing_kelp_block_2": "Dried Glowing Kelp Block",
+      "item.caves_and_cliffs_update_addon.glowing_kelp": "Glowing Kelp",
+      "block.caves_and_cliffs_update_addon.infested_grass_2": "Infested Grass",
+      "item.caves_and_cliffs_update_addon.jade_shovel": "Jade Shovel",
+      "block.caves_and_cliffs_update_addon.epidote": "Epidote",
+      "item.caves_and_cliffs_update_addon.lava_bug_spawn_egg": "Lava Bug Spawn Egg",
+      "itemGroup.tabcacadd_infested_mushroom": "CACADD - Infested Mushroom",
+      "item.caves_and_cliffs_update_addon.copperaxe": "Copper axe",
+      "block.caves_and_cliffs_update_addon.green_prismarine": "Green Prismarine",
+      "item.caves_and_cliffs_update_addon.jade_armor_leggings": "Jade Leggings",
+      "block.caves_and_cliffs_update_addon.glowing_lily_pad": "Glowing Lily Pad",
+      "block.caves_and_cliffs_update_addon.brown_pumice": "Pumice",
+      "block.caves_and_cliffs_update_addon.glowing_vine_end": "Glowing Vine End",
+      "block.caves_and_cliffs_update_addon.infested_mushroom": "Infested Mushroom",
+      "block.caves_and_cliffs_update_addon.stalactite_body_no": "Stalactite Body",
+      "block.caves_and_cliffs_update_addon.infested_grass": "Infested Grass",
+      "item.caves_and_cliffs_update_addon.amethystarmor_chestplate": "Amethyst Chestplate",
+      "block.caves_and_cliffs_update_addon.lava_stone_stairs": "Lava Stone Stairs",
+      "block.caves_and_cliffs_update_addon.icy_stone": "Icy Stone",
+      "block.caves_and_cliffs_update_addon.icy_grass": "Icy Grass",
+      "item.caves_and_cliffs_update_addon.frost_flies_spawn_egg": "Frost Flies Spawn Egg",
+      "block.caves_and_cliffs_update_addon.stalactite_body_fa": "Falling Stalactite 2",
+      "block.caves_and_cliffs_update_addon.erupting_column": "Erupting Column",
+      "enchantment.caves_and_cliffs_update_addon.vein_off": "Vein - Off",
+      "block.caves_and_cliffs_update_addon.small_redstone_crystal": "Small Redstone Crystal Bud",
+      "item.caves_and_cliffs_update_addon.copper_armor_helmet": "Copper Helmet",
+      "item.caves_and_cliffs_update_addon.copperpickaxe": "Copper pickaxe",
+      "item.caves_and_cliffs_update_addon.amethystarmor_boots": "Amethyst Boots",
+      "itemGroup.tabcacadd_crystals": "CACADD - Crystals",
+      "item.caves_and_cliffs_update_addon.sugilite_shovel": "Sugilite Shovel",
+      "fluid.icy_water": "IcyWater",
+      "itemGroup.tabcacad_dstones": "CACADD - Stones",
+      "item.caves_and_cliffs_update_addon.sugilite_armor_chestplate": "Sugilite Chestplate",
+      "item.caves_and_cliffs_update_addon.icy_water_bucket": "IcyWater Bucket",
+      "entity.caves_and_cliffs_update_addon.glow_squid": "Glow Squid",
+      "entity.caves_and_cliffs_update_addon.glow_bug": "Glow Bug",
+      "block.caves_and_cliffs_update_addon.medium_redstone_crystal_bud": "Medium Redstone Crystal Bud",
+      "item.caves_and_cliffs_update_addon.jade_monster_spawn_egg": "Jade Monster Spawn Egg",
+      "block.caves_and_cliffs_update_addon.pumice_slab": "Pumice Slab",
+      "block.caves_and_cliffs_update_addon.redprismarine": "Redprismarine",
+      "block.caves_and_cliffs_update_addon.glow_blossom": "Glow Blossom",
+      "item.caves_and_cliffs_update_addon.jade_armor_chestplate": "Jade Chestplate",
+      "block.caves_and_cliffs_update_addon.stalagmite_spike_body": "Stalagmite Spike Body",
+      "block.caves_and_cliffs_update_addon.yellow_pumice": "Yellow Pumice",
+      "block.caves_and_cliffs_update_addon.coal_crystal": "Coal Crystal",
+      "entity.caves_and_cliffs_update_addon.lava_bug": "Lava Bug",
+      "item.caves_and_cliffs_update_addon.jade_axe": "Jade Axe",
+      "block.caves_and_cliffs_update_addon.emerald_crystal": "Emerald Crystal",
+      "block.caves_and_cliffs_update_addon.redstone_cluster": "Redstone Cluster",
+      "block.caves_and_cliffs_update_addon.volcanic_pumice_stairs": "Volcanic Pumice",
+      "block.caves_and_cliffs_update_addon.lapis_crystal": "Lapis-Lazuli Crystal",
+      "item.caves_and_cliffs_update_addon.sugilite_hoe": "Sugilite Hoe",
+      "block.caves_and_cliffs_update_addon.jade_ore": "Jade Ore",
+      "block.caves_and_cliffs_update_addon.glow_flower": "Glow Flower",
+      "itemGroup.tabcacadd_icy": "CACADD Icy",
+      "item.caves_and_cliffs_update_addon.copperhoe": "Copperhoe",
+      "item.caves_and_cliffs_update_addon.amethyst_axe": "Amethyst Axe",
+      "block.caves_and_cliffs_update_addon.temple_lava_stone": "Temple Lava Stone",
+      "item.caves_and_cliffs_update_addon.refined_eye": "Refined Crystal",
+      "item.caves_and_cliffs_update_addon.jade": "Jade",
+      "item.caves_and_cliffs_update_addon.amethystarmor_helmet": "Amethyst Helmet",
+      "item.caves_and_cliffs_update_addon.jade_sword": "Jade Sword",
+      "item.caves_and_cliffs_update_addon.amethyst_shovel": "Amethyst Shovel",
+      "entity.caves_and_cliffs_update_addon.redstone_colossus": "Redstone Colossus",
+      "block.caves_and_cliffs_update_addon.stalactite_spke_body_no": "Stalactite Spike Body",
+      "item.caves_and_cliffs_update_addon.copper_armor_chestplate": "Copper Chestplate",
+      "item.caves_and_cliffs_update_addon.redstone_colossus_spawn_egg": "Redstone Colossus Spawn Egg",
+      "block.caves_and_cliffs_update_addon.iron_crystal": "Iron Crystal",
+      "block.caves_and_cliffs_update_addon.lava_stone_slab": "Lava Stone Slab",
+      "item.caves_and_cliffs_update_addon.glowing_ink_sac": "Glowing Ink Sac",
+      "item.caves_and_cliffs_update_addon.glow_bug_spawn_egg": "Glow Bug Spawn Egg",
+      "enchantment.caves_and_cliffs_update_addon.vein": "Vein - On",
+      "block.caves_and_cliffs_update_addon.glow_cave_structure": "Glow Cave Structure",
+      "block.caves_and_cliffs_update_addon.glowing_kelp_v_2": "Glowing Kelp",
+      "item.caves_and_cliffs_update_addon.jade_hoe": "Jade Hoe",
+      "block.caves_and_cliffs_update_addon.stalagmite_base": "Stalagmite Base",
+      "item.caves_and_cliffs_update_addon.glow_squid_spawn_egg": "Glow Squid Spawn Egg",
+      "block.caves_and_cliffs_update_addon.lava_stone_1": "Lava Stone",
+      "block.caves_and_cliffs_update_addon.blue_prismarine": "Blue Prismarine",
+      "block.caves_and_cliffs_update_addon.icy_stone_stairs": "Icy Stone Stairs",
+      "block.caves_and_cliffs_update_addon.icy_stone_slabs": "Icy Stone Slabs",
+      "block.caves_and_cliffs_update_addon.infested_mushroom_grass_block": "Infested Mushroom Grass Block",
+      "item.caves_and_cliffs_update_addon.amethystarmor_leggings": "Amethyst Leggings",
+      "item.caves_and_cliffs_update_addon.sugilite_armor_leggings": "Sugilite Leggings",
+      "item.caves_and_cliffs_update_addon.copper_sword": "Copper Sword",
+      "block.caves_and_cliffs_update_addon.jade_block": "Jade Block",
+      "item.caves_and_cliffs_update_addon.copper_armor_leggings": "Copper Leggings",
+      "block.caves_and_cliffs_update_addon.stalactite_spike_body_fa": "Falling Stalactite 1",
+      "block.caves_and_cliffs_update_addon.lava_grass": "Lava Grass",
+      "item.caves_and_cliffs_update_addon.copper_armor_boots": "Copper Boots",
+      "entity.caves_and_cliffs_update_addon.jade_monster": "Jade Monster",
+      "item.caves_and_cliffs_update_addon.amethyst_pickaxe": "Amethyst Pickaxe",
+      "block.caves_and_cliffs_update_addon.molten_hive": "Molten Hive",
+      "item.caves_and_cliffs_update_addon.amethyst_sword": "Amethyst Sword",
+      "block.caves_and_cliffs_update_addon.jungle_stone": "Jungle Stone",
+      "block.caves_and_cliffs_update_addon.stalagmite_spike": "Stalagmite Spike",
+      "item.caves_and_cliffs_update_addon.jade_armor_boots": "Jade Boots",
+      "item.caves_and_cliffs_update_addon.sugilite_axe": "Sugilite Axe",
+      "block.caves_and_cliffs_update_addon.infested_cave_spawn": "Infested Cave Spawn",
+      "item.caves_and_cliffs_update_addon.jade_armor_helmet": "Jade Helmet",
+      "block.caves_and_cliffs_update_addon.infested_cave_structure": "Infested Cave Structure",
+      "block.caves_and_cliffs_update_addon.infested_mushroom_block": "Infested Mushroom Block",
+      "block.caves_and_cliffs_update_addon.white_pumice": "White Pumice",
+      "item.caves_and_cliffs_update_addon.copper_shovel": "Copper Shovel",
+      "item.caves_and_cliffs_update_addon.dried_glowing_kelp": "Dried Glowing Kelp",
+      "block.caves_and_cliffs_update_addon.budding_redstone_crystal": "Budding Redstone Crystal",
+      "item.caves_and_cliffs_update_addon.sugilite_armor_boots": "Sugilite Boots",
+      "block.caves_and_cliffs_update_addon.large_redstone_crystal_bud": "Large Redstone Crystal Bud",
+      "block.caves_and_cliffs_update_addon.stalactite_spike_fa": "Falling Stalactite",
+      "itemGroup.tabcacadd_lava": "CACADD - Lava",
+      "key.mcreator.test": "Toogle Vein Enchantment",
+      "block.caves_and_cliffs_update_addon.stalactite_spike_no": "Stalactite Spike",
+      "itemGroup.tabcacaddons": "CACADD - Armor and tools",
+      "item.caves_and_cliffs_update_addon.sugilite": "Sugilite",
+      "block.caves_and_cliffs_update_addon.lava_cave_spawn": "Lava Cave Spawn",
+      "block.caves_and_cliffs_update_addon.diamond_crystal": "Diamond Crystal",
+      "block.caves_and_cliffs_update_addon.ice_stone": "Temple Icy Stone",
+      "block.caves_and_cliffs_update_addon.eruptive_column": "Eruptive Column",
+      "block.caves_and_cliffs_update_addon.icy_cave_spawn": "Icy Cave Spawn",
+      "block.caves_and_cliffs_update_addon.redstone_crystal": "Redstone Crystal",
+      "block.caves_and_cliffs_update_addon.lava_cave_structure": "Lava Cave Structure",
+      "block.caves_and_cliffs_update_addon.sugilite_ore": "Sugilite Ore",
+      "block.caves_and_cliffs_update_addon.black_pumice": "Volcanic Pumice",
+      "block.caves_and_cliffs_update_addon.glowing_kelp_top_v_2": "Glowing Kelp Top",
+      "block.caves_and_cliffs_update_addon.icy_cave_structure": "Icy Cave Structure",
+      "item.caves_and_cliffs_update_addon.sugilite_armor_helmet": "Sugilite Helmet",
+      "block.caves_and_cliffs_update_addon.sugilite_block": "Sugilite Block",
+      "block.caves_and_cliffs_update_addon.stalagmite_body": "Stalagmite Body",
+      "item.caves_and_cliffs_update_addon.sugilite_pickaxe": "Sugilite Pickaxe",
+      "block.caves_and_cliffs_update_addon.gold_crystal": "Gold Crystal",
+      "itemGroup.tabcacadd_glow_cave": "CACADD - Glow Cave",
+      "itemGroup.tabcacadd_jade": "CACADD - Jade",
+      "key.caves_and_cliffs_update_addon.test": "Toogle Vein Enchantment",
+      "block.caves_and_cliffs_update_addon.stalactite_base_no": "Stalactite Base",
+      "block.caves_and_cliffs_update_addon.glowing_bush": "Glowing Bush",
+      "item.caves_and_cliffs_update_addon.sugilite_sword": "Sugilite Sword",
+      "block.caves_and_cliffs_update_addon.stalactite_base_fa": "Falling Stalactite 3",
+      "item.caves_and_cliffs_update_addon.redstone_crystal_shard": "Redstone Crystal Shard",
+      "block.caves_and_cliffs_update_addon.glowing_kelp_block": "Glowing Kelp Block",
+      "block.caves_and_cliffs_update_addon.volcanic_pumice_slab": "Volcanic Pumice",
+      "block.caves_and_cliffs_update_addon.copper_crystal": "Copper Crystal",
+      "block.caves_and_cliffs_update_addon.pumice_stairs": "Pumice Stairs",
+      "entity.caves_and_cliffs_update_addon.frost_flies": "Frost Flies"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "caves_and_cliffs_update_addon",
+    "modName": "Caves and cliffs update addon",
+    "version": "2021.1",
+    "description": "Add some new stuff for the caves and cliffs update",
+    "author": "Osmiooo, LiukRast, uberbora",
+    "websiteURL": "https://discord.gg/5AYCDphFrt",
+    "license": "All Rights Reserved",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [
+      "caves_and_cliffs_mod"
+    ],
+    "dependencies": [
+      "caves_and_cliffs_mod"
+    ],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "? ",
+    "modElementsPackage": "net.mcreator.cavesandcliffsupdateaddon",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100112313
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "caves_and_cliffs_update_addon:custom/azaleaplant1",
+  "textures": {
+    "all": "caves_and_cliffs_update_addon:blocks/glowing_baby_blooming_azalea_tree_v1",
+    "particle": "caves_and_cliffs_update_addon:blocks/glowing_baby_blooming_azalea_tree_v1",
+    "0": "caves_and_cliffs_update_addon:blocks/glowing_baby_blooming_azalea_tree_bush_v1",
+    "1": "caves_and_cliffs_update_addon:blocks/glowing_baby_azalea_tree",
+    "2": "caves_and_cliffs_update_addon:blocks/glowingazaleawood",
+    "missing": "caves_and_cliffs_update_addon:blocks/"
+  }
+}

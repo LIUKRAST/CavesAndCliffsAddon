@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_glass_pane_side_alt",
+  "textures": {
+    "edge": "caves_and_cliffs_update_addon:blocks/glowing_kelp_v2_16x16",
+    "pane": "caves_and_cliffs_update_addon:blocks/glowing_kelp_plant_v2_16x16"
+  }
+}

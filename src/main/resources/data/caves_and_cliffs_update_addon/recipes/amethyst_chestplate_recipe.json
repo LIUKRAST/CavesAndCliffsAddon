@@ -1,0 +1,27 @@
+{
+  "group": "caves_and_cliffs_update_addon",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "335",
+    "333"
+  ],
+  "key": {
+    "0": {
+      "item": "caves_and_cliffs_mod:amethyst_shard"
+    },
+    "2": {
+      "item": "caves_and_cliffs_mod:amethyst_shard"
+    },
+    "3": {
+      "item": "caves_and_cliffs_mod:amethyst_shard"
+    },
+    "5": {
+      "item": "caves_and_cliffs_mod:amethyst_shard"
+    }
+  },
+  "result": {
+    "item": "caves_and_cliffs_update_addon:amethystarmor_chestplate",
+    "count": 1
+  }
+}

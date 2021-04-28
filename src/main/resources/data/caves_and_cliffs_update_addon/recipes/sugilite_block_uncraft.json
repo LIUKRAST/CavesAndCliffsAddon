@@ -1,0 +1,13 @@
+{
+  "group": "caves_and_cliffs_update_addon",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "caves_and_cliffs_update_addon:sugilite_block"
+    }
+  ],
+  "result": {
+    "item": "caves_and_cliffs_update_addon:sugilite",
+    "count": 9
+  }
+}

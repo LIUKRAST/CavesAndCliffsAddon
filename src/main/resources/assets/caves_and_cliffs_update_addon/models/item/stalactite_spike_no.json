@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "caves_and_cliffs_update_addon:items/stalactite_4"
+  }
+}

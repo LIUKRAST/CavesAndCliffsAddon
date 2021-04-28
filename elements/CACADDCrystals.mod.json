@@ -1,0 +1,11 @@
+{
+  "_fv": 17,
+  "_type": "tab",
+  "definition": {
+    "name": "CACADD - Crystals",
+    "icon": {
+      "value": "CUSTOM:DiamondCrystal"
+    },
+    "showSearch": false
+  }
+}

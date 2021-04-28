@@ -1,0 +1,27 @@
+{
+  "_fv": 17,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "jade_shovel",
+    "customModelName": "Normal",
+    "name": "Jade Shovel",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:CACADDJade"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 1,
+    "efficiency": 10.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 4.0,
+    "usageCount": 9768,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

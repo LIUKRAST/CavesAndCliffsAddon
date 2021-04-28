@@ -1,0 +1,10 @@
+{
+  "parent": "caves_and_cliffs_update_addon:custom/glowing_lilypad_v1",
+  "textures": {
+    "all": "caves_and_cliffs_update_addon:blocks/glowing_lilypad",
+    "particle": "caves_and_cliffs_update_addon:blocks/glowing_lilypad",
+    "0": "caves_and_cliffs_update_addon:blocks/glowing_lilypad",
+    "1": "caves_and_cliffs_update_addon:blocks/glowing_lilypad",
+    "3": "caves_and_cliffs_update_addon:blocks/glowing_lilypad"
+  }
+}

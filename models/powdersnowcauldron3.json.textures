@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "",
+        "1": "cauldron_bottom",
+        "2": "cauldron_inner",
+        "3": "cauldron_side",
+        "4": "cauldron_top",
+        "5": "powder_snow",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

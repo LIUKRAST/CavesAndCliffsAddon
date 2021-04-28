@@ -1,0 +1,36 @@
+{
+  "group": "caves_and_cliffs_update_addon",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "caves_and_cliffs_update_addon:jade"
+    },
+    "1": {
+      "item": "caves_and_cliffs_update_addon:jade"
+    },
+    "2": {
+      "item": "caves_and_cliffs_update_addon:jade"
+    },
+    "3": {
+      "item": "caves_and_cliffs_update_addon:jade"
+    },
+    "5": {
+      "item": "caves_and_cliffs_update_addon:jade"
+    },
+    "6": {
+      "item": "caves_and_cliffs_update_addon:jade"
+    },
+    "8": {
+      "item": "caves_and_cliffs_update_addon:jade"
+    }
+  },
+  "result": {
+    "item": "caves_and_cliffs_update_addon:jade_armor_leggings",
+    "count": 1
+  }
+}

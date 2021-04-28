@@ -1,0 +1,8 @@
+{
+  "parent": "caves_and_cliffs_update_addon:custom/eruptivecolumn",
+  "textures": {
+    "all": "caves_and_cliffs_update_addon:blocks/redstone_crystal3",
+    "particle": "caves_and_cliffs_update_addon:blocks/redstone_crystal3",
+    "0": "caves_and_cliffs_update_addon:blocks/redstone_crystal3"
+  }
+}

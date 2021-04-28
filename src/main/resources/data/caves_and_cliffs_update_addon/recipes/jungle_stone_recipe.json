@@ -1,0 +1,42 @@
+{
+  "group": "caves_and_cliffs_update_addon",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:vine"
+    },
+    "1": {
+      "item": "minecraft:jungle_log"
+    },
+    "2": {
+      "item": "minecraft:vine"
+    },
+    "3": {
+      "item": "minecraft:jungle_log"
+    },
+    "4": {
+      "item": "minecraft:stone"
+    },
+    "5": {
+      "item": "minecraft:jungle_log"
+    },
+    "6": {
+      "item": "minecraft:vine"
+    },
+    "7": {
+      "item": "minecraft:jungle_log"
+    },
+    "8": {
+      "item": "minecraft:vine"
+    }
+  },
+  "result": {
+    "item": "caves_and_cliffs_update_addon:jungle_stone",
+    "count": 8
+  }
+}

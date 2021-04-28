@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "caves_and_cliffs_update_addon:block/volcanic_pumice_slab"
+    },
+    "type=top": {
+      "model": "caves_and_cliffs_update_addon:block/volcanic_pumice_slab_top"
+    },
+    "type=double": {
+      "model": "caves_and_cliffs_update_addon:block/volcanic_pumice_slab_full"
+    }
+  }
+}

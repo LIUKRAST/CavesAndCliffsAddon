@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "caves_and_cliffs_update_addon:blocks/blue_prismarine",
+    "particle": "caves_and_cliffs_update_addon:blocks/blue_prismarine"
+  }
+}

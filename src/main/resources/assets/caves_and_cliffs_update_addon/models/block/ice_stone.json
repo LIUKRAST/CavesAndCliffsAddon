@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "caves_and_cliffs_update_addon:blocks/chiseled_icestone",
+    "up": "caves_and_cliffs_update_addon:blocks/chiseled_icestone",
+    "north": "caves_and_cliffs_update_addon:blocks/chiseled_icestone",
+    "east": "caves_and_cliffs_update_addon:blocks/chiseled_icestone",
+    "south": "caves_and_cliffs_update_addon:blocks/chiseled_icestone",
+    "west": "caves_and_cliffs_update_addon:blocks/chiseled_icestone",
+    "particle": "caves_and_cliffs_update_addon:blocks/chiseled_icestone"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "group": "caves_and_cliffs_update_addon",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "caves_and_cliffs_update_addon:jade"
+    },
+    "1": {
+      "item": "caves_and_cliffs_update_addon:jade"
+    },
+    "2": {
+      "item": "caves_and_cliffs_update_addon:jade"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "caves_and_cliffs_update_addon:jade_pickaxe",
+    "count": 1
+  }
+}

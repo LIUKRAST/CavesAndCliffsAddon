@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "mushroomish_flower_turned_v1",
+        "2": "mushroomish_flower_turned_v1"
+      },
+      "name": "default"
+    }
+  }
+}

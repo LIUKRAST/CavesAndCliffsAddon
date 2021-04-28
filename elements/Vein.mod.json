@@ -1,0 +1,58 @@
+{
+  "_fv": 17,
+  "_type": "enchantment",
+  "definition": {
+    "name": "Vein - On",
+    "type": "BREAKABLE",
+    "rarity": "UNCOMMON",
+    "minLevel": 1,
+    "maxLevel": 1,
+    "damageModifier": 0,
+    "compatibleEnchantments": [
+      {
+        "value": "UNBREAKING"
+      },
+      {
+        "value": "EFFICIENCY"
+      },
+      {
+        "value": "MENDING"
+      }
+    ],
+    "compatibleItems": [
+      {
+        "value": "CUSTOM:Copperpickaxe"
+      },
+      {
+        "value": "CUSTOM:AmethystPickaxe"
+      },
+      {
+        "value": "CUSTOM:JadePickaxe"
+      },
+      {
+        "value": "CUSTOM:SugilitePickaxe"
+      },
+      {
+        "value": "Items.WOODEN_PICKAXE"
+      },
+      {
+        "value": "Items.STONE_PICKAXE"
+      },
+      {
+        "value": "Items.IRON_PICKAXE"
+      },
+      {
+        "value": "Items.GOLDEN_PICKAXE"
+      },
+      {
+        "value": "Items.DIAMOND_PICKAXE"
+      },
+      {
+        "value": "Items.NETHERITE_PICKAXE"
+      }
+    ],
+    "isTreasureEnchantment": false,
+    "isCurse": false,
+    "isAllowedOnBooks": true
+  }
+}

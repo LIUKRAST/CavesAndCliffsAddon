@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "caves_and_cliffs_update_addon:blocks/icy_stone",
+    "top": "caves_and_cliffs_update_addon:blocks/icy_stone",
+    "side": "caves_and_cliffs_update_addon:blocks/icy_stone"
+  }
+}

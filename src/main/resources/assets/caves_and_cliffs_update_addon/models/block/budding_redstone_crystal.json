@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "caves_and_cliffs_update_addon:blocks/budding_redstone_crystal",
+    "up": "caves_and_cliffs_update_addon:blocks/budding_redstone_crystal",
+    "north": "caves_and_cliffs_update_addon:blocks/budding_redstone_crystal",
+    "east": "caves_and_cliffs_update_addon:blocks/budding_redstone_crystal",
+    "south": "caves_and_cliffs_update_addon:blocks/budding_redstone_crystal",
+    "west": "caves_and_cliffs_update_addon:blocks/budding_redstone_crystal",
+    "particle": "caves_and_cliffs_update_addon:blocks/budding_redstone_crystal"
+  }
+}

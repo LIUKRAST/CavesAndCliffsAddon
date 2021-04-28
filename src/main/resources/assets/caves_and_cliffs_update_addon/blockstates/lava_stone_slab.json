@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "caves_and_cliffs_update_addon:block/lava_stone_slab"
+    },
+    "type=top": {
+      "model": "caves_and_cliffs_update_addon:block/lava_stone_slab_top"
+    },
+    "type=double": {
+      "model": "caves_and_cliffs_update_addon:block/lava_stone_slab_full"
+    }
+  }
+}

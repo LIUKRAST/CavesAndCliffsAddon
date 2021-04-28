@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "caves_and_cliffs_update_addon:blocks/chiseled_lavastone",
+    "up": "caves_and_cliffs_update_addon:blocks/chiseled_lavastone",
+    "north": "caves_and_cliffs_update_addon:blocks/chiseled_lavastone",
+    "east": "caves_and_cliffs_update_addon:blocks/chiseled_lavastone",
+    "south": "caves_and_cliffs_update_addon:blocks/chiseled_lavastone",
+    "west": "caves_and_cliffs_update_addon:blocks/chiseled_lavastone",
+    "particle": "caves_and_cliffs_update_addon:blocks/chiseled_lavastone"
+  }
+}

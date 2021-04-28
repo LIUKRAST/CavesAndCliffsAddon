@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "caves_and_cliffs_update_addon:blocks/large_amethyst_crystal",
+    "particle": "caves_and_cliffs_update_addon:blocks/large_amethyst_crystal"
+  }
+}

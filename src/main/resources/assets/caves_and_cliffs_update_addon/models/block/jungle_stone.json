@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "caves_and_cliffs_update_addon:blocks/chiseled_junglestone",
+    "up": "caves_and_cliffs_update_addon:blocks/chiseled_junglestone",
+    "north": "caves_and_cliffs_update_addon:blocks/chiseled_junglestone",
+    "east": "caves_and_cliffs_update_addon:blocks/chiseled_junglestone",
+    "south": "caves_and_cliffs_update_addon:blocks/chiseled_junglestone",
+    "west": "caves_and_cliffs_update_addon:blocks/chiseled_junglestone",
+    "particle": "caves_and_cliffs_update_addon:blocks/chiseled_junglestone"
+  }
+}

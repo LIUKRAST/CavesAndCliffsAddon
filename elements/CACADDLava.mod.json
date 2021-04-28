@@ -1,0 +1,11 @@
+{
+  "_fv": 17,
+  "_type": "tab",
+  "definition": {
+    "name": "CACADD - Lava",
+    "icon": {
+      "value": "CUSTOM:LavaGrass"
+    },
+    "showSearch": false
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "caves_and_cliffs_update_addon:block/icy_stone_slabs"
+    },
+    "type=top": {
+      "model": "caves_and_cliffs_update_addon:block/icy_stone_slabs_top"
+    },
+    "type=double": {
+      "model": "caves_and_cliffs_update_addon:block/icy_stone_slabs_full"
+    }
+  }
+}

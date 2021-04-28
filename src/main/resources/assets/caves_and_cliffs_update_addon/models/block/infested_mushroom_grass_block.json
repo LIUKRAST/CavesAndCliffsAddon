@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "caves_and_cliffs_update_addon:blocks/c592dc70e2838a512bc48e4d1bb35330",
+    "up": "caves_and_cliffs_update_addon:blocks/mooshrelium_top",
+    "north": "caves_and_cliffs_update_addon:blocks/mooshrelium",
+    "east": "caves_and_cliffs_update_addon:blocks/mooshrelium",
+    "south": "caves_and_cliffs_update_addon:blocks/mooshrelium",
+    "west": "caves_and_cliffs_update_addon:blocks/mooshrelium",
+    "particle": "caves_and_cliffs_update_addon:blocks/c592dc70e2838a512bc48e4d1bb35330"
+  }
+}

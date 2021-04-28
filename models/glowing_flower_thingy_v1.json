@@ -1,0 +1,56 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"2": "Caves and Cliffs addon textures/glowing_plant_thingy V3",
+		"3": "block/Air",
+		"particle": "Caves and Cliffs addon textures/glowing_plant_thingy V1"
+	},
+	"elements": [
+		{
+			"from": [8, 0, 0],
+			"to": [8, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 16], "texture": "#3"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"south": {"uv": [0, 0, 0, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"up": {"uv": [0, 0, 16, 0], "rotation": 90, "texture": "#3"},
+				"down": {"uv": [0, 0, 16, 0], "rotation": 270, "texture": "#missing"}
+			}
+		},
+		{
+			"from": [0, 0, 8],
+			"to": [16, 16, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 16]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#3"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#3"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#3"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 7.75, 0.75]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 7.25, 0.5]
+		},
+		"firstperson_righthand": {
+			"translation": [0.75, 0, -2.25]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 1.5, -1.5]
+		},
+		"ground": {
+			"translation": [0, 4.75, 0]
+		},
+		"fixed": {
+			"translation": [0, 0, -0.25]
+		}
+	}
+}

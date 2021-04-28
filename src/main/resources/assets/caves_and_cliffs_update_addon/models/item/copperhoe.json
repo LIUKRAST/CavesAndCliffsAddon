@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "caves_and_cliffs_update_addon:items/copper_hoe"
+  }
+}

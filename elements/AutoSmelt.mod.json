@@ -1,0 +1,24 @@
+{
+  "_fv": 17,
+  "_type": "enchantment",
+  "definition": {
+    "name": "Auto Smelt",
+    "type": "DIGGER",
+    "rarity": "UNCOMMON",
+    "minLevel": 1,
+    "maxLevel": 1,
+    "damageModifier": 0,
+    "compatibleEnchantments": [
+      {
+        "value": "EFFICIENCY"
+      },
+      {
+        "value": "UNBREAKING"
+      }
+    ],
+    "compatibleItems": [],
+    "isTreasureEnchantment": false,
+    "isCurse": false,
+    "isAllowedOnBooks": true
+  }
+}

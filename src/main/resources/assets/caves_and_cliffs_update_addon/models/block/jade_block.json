@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "caves_and_cliffs_update_addon:blocks/jade",
+    "up": "caves_and_cliffs_update_addon:blocks/jade",
+    "north": "caves_and_cliffs_update_addon:blocks/jade",
+    "east": "caves_and_cliffs_update_addon:blocks/jade",
+    "south": "caves_and_cliffs_update_addon:blocks/jade",
+    "west": "caves_and_cliffs_update_addon:blocks/jade",
+    "particle": "caves_and_cliffs_update_addon:blocks/jade"
+  }
+}

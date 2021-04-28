@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "caves_and_cliffs_update_addon:blocks/brown_thing",
+    "up": "caves_and_cliffs_update_addon:blocks/brown_thing",
+    "north": "caves_and_cliffs_update_addon:blocks/brown_thing",
+    "east": "caves_and_cliffs_update_addon:blocks/brown_thing",
+    "south": "caves_and_cliffs_update_addon:blocks/brown_thing",
+    "west": "caves_and_cliffs_update_addon:blocks/brown_thing",
+    "particle": "caves_and_cliffs_update_addon:blocks/brown_thing"
+  }
+}

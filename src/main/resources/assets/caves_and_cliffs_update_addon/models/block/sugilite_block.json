@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "caves_and_cliffs_update_addon:blocks/pink_crystal",
+    "up": "caves_and_cliffs_update_addon:blocks/pink_crystal",
+    "north": "caves_and_cliffs_update_addon:blocks/pink_crystal",
+    "east": "caves_and_cliffs_update_addon:blocks/pink_crystal",
+    "south": "caves_and_cliffs_update_addon:blocks/pink_crystal",
+    "west": "caves_and_cliffs_update_addon:blocks/pink_crystal",
+    "particle": "caves_and_cliffs_update_addon:blocks/pink_crystal"
+  }
+}

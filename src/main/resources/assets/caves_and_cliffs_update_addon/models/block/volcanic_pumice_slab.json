@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "caves_and_cliffs_update_addon:blocks/black_pumice",
+    "top": "caves_and_cliffs_update_addon:blocks/black_pumice",
+    "side": "caves_and_cliffs_update_addon:blocks/black_pumice"
+  }
+}

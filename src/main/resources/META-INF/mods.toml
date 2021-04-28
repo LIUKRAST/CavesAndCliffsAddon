@@ -1,0 +1,36 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="caves_and_cliffs_update_addon"
+version="2021.1"
+displayName="Caves and cliffs update addon"
+credits="? "
+displayURL="https://discord.gg/5AYCDphFrt"
+authors="Osmiooo, LiukRast, uberbora"
+description='''
+Add some new stuff for the caves and cliffs update
+'''
+
+[[dependencies.caves_and_cliffs_update_addon]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+[[dependencies.caves_and_cliffs_update_addon]]
+    modId="caves_and_cliffs_mod"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.caves_and_cliffs_update_addon]]
+    modId="caves_and_cliffs_mod"
+    mandatory=false
+    ordering="NONE"
+    side="BOTH"
+
